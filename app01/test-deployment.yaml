@@ -17,6 +17,6 @@ spec:
         app: bgd
     spec:
       containers:
-      - image: docker.io/islamic/julia:latest
+      - image: docker.io/quran/quran.com-varnish:1.0.1
         name: bgd
         resources: {}
