@@ -17,6 +17,6 @@ spec:
         app: bgd
     spec:
       containers:
-      - image: docker.io/nmfretz/chatbot-ui:2023.04.05
+      - image: docker.io/islamicnetwork/alquran.cloud
         name: bgd
         resources: {}
