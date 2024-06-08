@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
        #- image: docker.io/islamicnetwork/alquran.cloud
-        - image: docker.io/islamicnetwork/waf:438
+        - image: docker.io/islamicnetwork/cdn.alquran.cloud:215
         name: bgd
         resources: {}
