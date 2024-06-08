@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: bgd
-  name: bgd
+  name: osama
   namespace: test
 spec:
   replicas: 1
