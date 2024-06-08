@@ -17,6 +17,6 @@ spec:
         app: bgd
     spec:
       containers:
-      - image: docker.io/quran/quran.com-varnish:1.0.1
+      - image: docker.io/quran/nginx:2910a4d
         name: bgd
         resources: {}
