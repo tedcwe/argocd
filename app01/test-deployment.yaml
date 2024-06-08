@@ -17,6 +17,7 @@ spec:
         app: bgd
     spec:
       containers:
-      - image: docker.io/islamicnetwork/alquran.cloud
+       #- image: docker.io/islamicnetwork/alquran.cloud
+       - image: docker.io/islamicnetwork/php
         name: bgd
         resources: {}
