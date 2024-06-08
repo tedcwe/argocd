@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
        #- image: docker.io/islamicnetwork/alquran.cloud
-       - image: docker.io/islamicnetwork/php
+        - image: docker.io/islamicnetwork/waf:438
         name: bgd
         resources: {}
