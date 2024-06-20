@@ -1,4 +1,5 @@
 appName: myhelmapp
+replicas: 4
 
 port: 80
 
