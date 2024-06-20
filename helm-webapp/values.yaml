@@ -5,7 +5,7 @@ port: 80
 configmap:
   name: myhelmapp-configmap-v1
   data:
-    CUSTOM_HEADER: 'This app was deployed with helm! to the <h1>GIT of tedcwe </h1>'
+    CUSTOM_HEADER: 'This app was deployed with helm! to the GIT of tedcwe'
 
 image:
   name: devopsjourney1/mywebapp
